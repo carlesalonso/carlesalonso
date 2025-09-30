@@ -1,6 +1,45 @@
-# Bienvenidos a mi GitHub
+# 👋 Hola, soy Carles Alonso Martinez
 
-## Sobre mí
+**Profesor de Informática en la Escola Pia Mataró (Barcelona, España)**  
+Especializado en Linux, Windows, ciberseguridad y cloud computing.
 
-Actualmente trabajando como profesor  en CF de GM Informática en [Escola Pia Mataró](https://mataro.escolapia.cat/)
+---
 
+## ✨ Sobre mí
+
+- 🏫 Profesor de Formación Profesional en el área de Informática.
+- 🖥️ Apasionado del software libre y la tecnología educativa.
+- 🔒 Enfoque especial en ciberseguridad, administración de sistemas y virtualización.
+- 🌍 Promotor de la cultura digital y el aprendizaje colaborativo.
+- 📚 Compartiendo recursos, proyectos y materiales para docentes y estudiantes.
+- 📫 Contacto: [carlos.martinez@mataro.epiaedu.cat](mailto:carlos.martinez@mataro.epiaedu.cat)
+- 🌐 Blog: [mataro.escolapia.cat](http://mataro.escolapia.cat)
+- 🐦 Twitter: [@AlonsoCarles](https://twitter.com/AlonsoCarles)
+
+---
+
+## 🚀 Repositorios destacados
+
+Explora mis proyectos y repositorios, donde encontrarás:
+
+- **Material docente y ejercicios prácticos** (Linux, Windows, redes, scripting, ciberseguridad)
+- **Ejemplos de automatización y administración de sistemas**
+- **Ejercicios y recursos de programación básica y avanzada**
+- **Scripts útiles para la gestión y el aprendizaje**
+- **Proyectos para clases, talleres y formaciones en centros educativos**
+
+---
+
+## 📂 ¿Qué puedes encontrar aquí?
+
+- Guías y apuntes para estudiantes y docentes.
+- Prácticas de ciberseguridad y administración.
+- Recursos para el aprendizaje de tecnologías modernas.
+- Proyectos colaborativos y abiertos para la comunidad educativa.
+
+---
+
+## 👀 ¿Te interesa colaborar?
+
+¡Estoy abierto a propuestas, sugerencias y colaboraciones educativas!  
+No dudes en contactarme si tienes ideas para mejorar la enseñanza de la informática o compartir materiales útiles.
