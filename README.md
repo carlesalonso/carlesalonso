@@ -9,12 +9,12 @@ Especializado en Linux, Windows, ciberseguridad y cloud computing.
 
 - 🏫 Profesor de Formación Profesional en el área de Informática.
 - 🖥️ Apasionado del software libre y la tecnología educativa.
-- 🔒 Enfoque especial en ciberseguridad, administración de sistemas y virtualización.
-- 🌍 Promotor de la cultura digital y el aprendizaje colaborativo.
+- 🔒 Especializado en sistemas operativos, servicios en red, redes locales y ciberseguridad.
 - 📚 Compartiendo recursos, proyectos y materiales para docentes y estudiantes.
-- 📫 Contacto: [carlos.martinez@mataro.epiaedu.cat](mailto:carlos.martinez@mataro.epiaedu.cat)
-- 🌐 Blog: [mataro.escolapia.cat](http://mataro.escolapia.cat)
-- 🐦 Twitter: [@AlonsoCarles](https://twitter.com/AlonsoCarles)
+
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:AlonsoCarles) 
+
+
 
 ---
 
