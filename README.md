@@ -12,7 +12,10 @@ Especializado en Linux, Windows, ciberseguridad y cloud computing.
 - 🔒 Especializado en sistemas operativos, servicios en red, redes locales y ciberseguridad.
 - 📚 Compartiendo recursos, proyectos y materiales para docentes y estudiantes.
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:AlonsoCarles) 
+[![X (formerly Twitter)](https://img.shields.io/twitter/)](https://x.com/AlonsoCarles) 
+[[![Blog](https://img.shields.io/wordpress/)](https://waytoit.wordpress.com)
+
+
 
 
 
