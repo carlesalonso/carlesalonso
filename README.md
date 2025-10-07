@@ -1,7 +1,7 @@
 # 👋 Hola, soy Carles Alonso Martinez
 
 **Profesor de Informática en la Escola Pia Mataró (Barcelona, España)**  
-Especializado en Linux, Windows, ciberseguridad y cloud computing.
+Impartiendo asignaturas de Sistemas Operativos, Servicios en Red, Redes Locales y Seguridad Informática en GM Sistemas Microinformáticos y Redes.
 
 ---
 
@@ -12,25 +12,9 @@ Especializado en Linux, Windows, ciberseguridad y cloud computing.
 - 🔒 Especializado en sistemas operativos, servicios en red, redes locales y ciberseguridad.
 - 📚 Compartiendo recursos, proyectos y materiales para docentes y estudiantes.
 
-[![X (formerly Twitter)](https://img.shields.io/twitter/)](https://x.com/AlonsoCarles) 
-[[![Blog](https://img.shields.io/wordpress/)](https://waytoit.wordpress.com)
-
-
-
-
-
----
-
-## 🚀 Repositorios destacados
-
-Explora mis proyectos y repositorios, donde encontrarás:
-
-- **Material docente y ejercicios prácticos** (Linux, Windows, redes, scripting, ciberseguridad)
-- **Ejemplos de automatización y administración de sistemas**
-- **Ejercicios y recursos de programación básica y avanzada**
-- **Scripts útiles para la gestión y el aprendizaje**
-- **Proyectos para clases, talleres y formaciones en centros educativos**
-
+[![WordPress](https://img.shields.io/badge/WordPress-000000?style=flat-square&logo=WordPress&logoColor=white&link=https://carlesalonso.com)](https://waytoit.wordpress.com) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/AlonsoCarles.svg?style=social&label=Follow)](https://twitter.com/AlonsoCarles)
+[![Linkedin: carlesalonso](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosalonso-martinez/)](https://www.linkedin.com/in/carlesalonso/)[![GitHub carlesalonso](https://img.shields.io/github/followers/carlesalonso?label=follow&style=social)](https://github.com/carlesalonso)
 ---
 
 ## 📂 ¿Qué puedes encontrar aquí?
