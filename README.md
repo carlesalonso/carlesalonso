@@ -1,4 +1,4 @@
-# 👋 Hola, soy Carles Alonso Martinez
+# 👋 Hola, soy Carlos Alonso Martinez
 
 **Profesor de Informática en la Escola Pia Mataró (Barcelona, España)**  
 Impartiendo asignaturas de Sistemas Operativos, Servicios en Red, Redes Locales y Seguridad Informática en GM Sistemas Microinformáticos y Redes.
