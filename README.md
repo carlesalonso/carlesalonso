@@ -64,9 +64,6 @@ Formar profesionales competentes en el ámbito IT, promoviendo el uso de **softw
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlesalonso&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlesalonso&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carlesalonso&theme=tokyonight&hide_border=true)
 
 </div>
 
