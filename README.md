@@ -58,18 +58,6 @@ Formar profesionales competentes en el ámbito IT, promoviendo el uso de **softw
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlesalonso&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![GitHub Contributions](https://streak-stats.demolab.com/?user=carlesalonso&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📂 Repositorios Destacados
 
 En mi perfil encontrarás:
