@@ -58,7 +58,7 @@ Formar profesionales competentes en el ámbito IT, promoviendo el uso de **softw
 
 ---
 
-## 📂 Repositorios Destacados
+## 📂 Contenidos Destacados
 
 En mi perfil encontrarás:
 
