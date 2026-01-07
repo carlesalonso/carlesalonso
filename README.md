@@ -32,7 +32,7 @@ Formar profesionales competentes en el ámbito IT, promoviendo el uso de **softw
 ### 🔧 Virtualización y Contenedores
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Vagrant](https://img.shields.io/badge/Vagrant-E57000?style=for-the-badge&logo=vagrant&logoColor=white)
 
 ### 🌐 Redes y Servicios
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
@@ -54,7 +54,6 @@ Formar profesionales competentes en el ámbito IT, promoviendo el uso de **softw
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ---
 
