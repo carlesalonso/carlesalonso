@@ -122,13 +122,10 @@ En mi perfil encontrarás:
 </td>
 <td width="50%">
 
-### 🔒 Seguridad Informática
+### 🔒 [Módulo Seguridad Informática - SMR](https://github.com/SMX-0226SI/)
 
-- Evaluación de vulnerabilidades
-- Hardening de sistemas
-- Firewalls y control de acceso
-- Análisis de tráfico de red
-- Ethical Hacking y pentesting básico
+- Apuntes
+- Prácticas y actividades
 
 </td>
 </tr>
