@@ -66,15 +66,9 @@ Formar profesionales competentes en el ámbito IT, promoviendo el uso de **softw
 
 ## 📂 Contenidos Destacados
 
-En mi perfil encontrarás:
+- 🔏[Material módulo Seguridad Informática - SMR (català)](https://github.com/smx-0226si)
 
-- 📖 **Guías y apuntes** para estudiantes de Formación Profesional
-- 🔐 **Prácticas de ciberseguridad** con casos reales y herramientas profesionales
-- 🖥️ **Tutoriales de administración de sistemas** (Linux y Windows Server)
-- 🌐 **Configuración de servicios en red** (DNS, DHCP, Web, FTP, etc.)
-- 🐳 **Proyectos con Docker y contenedores**
-- 🎓 **Recursos educativos** para docentes y estudiantes
-- 🤝 **Proyectos colaborativos** abiertos a la comunidad
+- 🖥️[Material módulo Sistemas Operativos en Red (català)](https://github.com/SMX-SOX)
 
 > 💡 **Todos los materiales son de acceso libre y están diseñados para facilitar el aprendizaje práctico**
 
@@ -122,10 +116,11 @@ En mi perfil encontrarás:
 </td>
 <td width="50%">
 
-### 🔒 [Módulo Seguridad Informática - SMR](https://github.com/SMX-0226SI/)
+### 🔒 Seguridad Informática
 
 - Apuntes
-- Prácticas y actividades
+- Prácticas
+- Herramientas de análisis de seguridad
 
 </td>
 </tr>
