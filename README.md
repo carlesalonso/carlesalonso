@@ -64,11 +64,11 @@ Formar profesionales competentes en el ámbito IT, promoviendo el uso de **softw
 
 ---
 
-## 📂 Contenidos Destacados
+## 📂 Enlaces a materiales de asignaturas
 
-- 🔏[Material módulo Seguridad Informática - SMR (català)](https://github.com/smx-0226si)
+- 🔏[SMX-0226 Seguretat Informàtica](https://github.com/smx-0226si)
 
-- 🖥️[Material módulo Sistemas Operativos en Red (català)](https://github.com/SMX-SOX)
+- 🖥️[SMX-0224 Sistemes Operatius en Xarxa](https://github.com/SMX-SOX)
 
 > 💡 **Todos los materiales son de acceso libre y están diseñados para facilitar el aprendizaje práctico**
 
@@ -160,7 +160,6 @@ Formar profesionales competentes en el ámbito IT, promoviendo el uso de **softw
 
 ## 💖 Apoya el proyecto
 
-Si encuentras útiles mis recursos educativos:
 - ⭐ **Dale una estrella** a los repositorios que te resulten útiles
 - 🔄 **Comparte** los recursos con otros docentes y estudiantes
 - 🤝 **Contribuye** con mejoras y nuevos contenidos
